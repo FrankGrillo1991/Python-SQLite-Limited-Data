@@ -1,1 +1,1 @@
-Database developed with Python and SQLite
+Database developed with Python and SQLite3
